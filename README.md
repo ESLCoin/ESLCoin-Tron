@@ -6,6 +6,8 @@ ESL Coin TRX is a the Tron based fork implementation of [ESL Coin](http://eslcoi
 
 English has been the effective lingua franca since the ascendance of the British Empire in the 19th century. It is still used as a common global language to this day, and proficiency is especially prized in countries competing to export to the massive combined economy of the United States, Canada, Australia, Great Britain and Ireland. This has created a global industry worth billions of dollars; in rich manufacturing centers such as South Korea, there are even celebrity ESL tutors making seven figures! Students from all over the world learn English from native English teachers—often traveling to dedicated schools overseas—forming a robust community with its own Meetups and conferences. Our team includes highly qualified ESL professionals with years of experience in the industry, and we are partnered with established ESL organizations. This includes one of the largest related Meetups and Facebook pages in the world, whose growing online community created the need for our upcoming blockchain-powered ESL app.
 
+![image](https://github.com/ESLCoin/ESLCoin-Tron/blob/main/ESL%20industry.png)
+
 ## Challenge
 
 While we take English for granted, there are billions who are eager to learn the English language but are prevented from doing so due to many existing barriers in the current English learning system from cost barriers to inefficient distribution systems and poor proficiency testing systems. The limitations in the current system has resulted in varying education levels across the board often only the wealthy could afford quality education and are often charged astronomical rates for language schools. The inefficiencies and lack of transparency in the education delivery & grading system has resulted in many exploits where profiteering schools & exam providers are known to ‘sell language proficiency levels’ to language learners based on their ability to pay and not their accomplishments in learning.
@@ -56,7 +58,7 @@ ESL Coin’s first decentralized app has its origins in the Conversational Engli
 
 Over the years, however, our group outgrew existing chat platforms, many of which have serious moderation issues and none of which are dedicated specifically to ESL students. The TryEnglish app will better facilitate English practice conversation with a variety of additional features, using the ESL Coin network to help connect them with schools, homestays and other services they may need.
 
-![image](http://eslcoin.org/wp-content/uploads/2018/01/features.png)
+![image](https://github.com/ESLCoin/ESLCoin-Tron/blob/main/TryEnglish%202.png?raw=true)
 
 ### TutorMatch
 TutorMatch is the 'Tinder' match making service connecting English native speakers **(Language Buddies)** with ESL learners. TutorMatch makes it possible for native learners to make a passive income on the go simply by particpating in casual conversations with english learners. English learners can pick and choose their language buddy and tutors simply by swiping left or right. Rewards for native speakers are based on length of conversation, quality of conversation (rating from english learner) and overall reputation. Native speakers with higher reputation level can qualify to become an english tutor which unlocks more rewards.  
@@ -65,6 +67,8 @@ Using ESLCoin TRX, micropayments can be made possible without the worries of hig
 
 ## Academic record Transmission
 The current legacy system requires the use of postal service to send physical academic transacripts and test scores to different institutions. Often times, transcripts and test certificates are prone to foagery. Using the power of smart contracts, school grades and exam scores can be stored onto the blockchain ensuring transparency, immutability and availability. 
+
+![image](https://github.com/ESLCoin/ESLCoin-Tron/blob/main/acaemic%20record.png)
 
 ```markdown
 **Process**
