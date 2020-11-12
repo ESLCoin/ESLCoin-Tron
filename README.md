@@ -6,7 +6,7 @@ ESL Coin TRX is a the Tron based fork implementation of [ESL Coin](http://eslcoi
 
 English has been the effective lingua franca since the ascendance of the British Empire in the 19th century. It is still used as a common global language to this day, and proficiency is especially prized in countries competing to export to the massive combined economy of the United States, Canada, Australia, Great Britain and Ireland. This has created a global industry worth billions of dollars; in rich manufacturing centers such as South Korea, there are even celebrity ESL tutors making seven figures! Students from all over the world learn English from native English teachers—often traveling to dedicated schools overseas—forming a robust community with its own Meetups and conferences. Our team includes highly qualified ESL professionals with years of experience in the industry, and we are partnered with established ESL organizations. This includes one of the largest related Meetups and Facebook pages in the world, whose growing online community created the need for our upcoming blockchain-powered ESL app.
 
-![image](https://raw.githubusercontent.com/ESLCoin/ESLCoin-Tron/main/acaemic%20record.png)
+![image](https://raw.githubusercontent.com/ESLCoin/eslcoin-tron/main/ESL%20industry.png)
 
 ## Challenge
 
@@ -68,7 +68,7 @@ Using ESLCoin TRX, micropayments can be made possible without the worries of hig
 ## Academic record Transmission
 The current legacy system requires the use of postal service to send physical academic transacripts and test scores to different institutions. Often times, transcripts and test certificates are prone to foagery. Using the power of smart contracts, school grades and exam scores can be stored onto the blockchain ensuring transparency, immutability and availability. 
 
-![image](https://github.com/ESLCoin/ESLCoin-Tron/blob/main/acaemic%20record.png)
+![image](https://raw.githubusercontent.com/ESLCoin/ESLCoin-Tron/main/acaemic%20record.png)
 
 ```markdown
 **Process**
