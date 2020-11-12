@@ -1,6 +1,6 @@
 ![image](http://eslcoin.org/wp-content/uploads/2018/01/eslcoinheadsize.png)
 ## ESL Coin TRX - English As A Second Language
-ESL Coin TRX is a the Tron based fork implementation of [ESL Coin](http://eslcoin.org), a community project that is set to disrupt the 84 Billion dollar language learning industry. Unlike the ERC20 ESL Coin, ESL Coin TRX will be run as a TRC20 token on the Tron blockchain providing the benefit of low gas costs making microtransactions possible. 
+ESL Coin TRX is a the Tron based fork implementation of [ESL Coin](http://eslcoin.org), a community project that is set to disrupt the 84 Billion dollar language learning industry. Running in parallel with its ETH cousin where high gas fees are an issue, ESL Coin TRX will enjoy the benefits of low gas fees offered by the Tronix ecosystem making microtransactions possible. 
 
 ## Background
 
