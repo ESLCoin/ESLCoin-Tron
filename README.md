@@ -45,7 +45,7 @@ Using ESLCoin Tron, micropayments can be made possible without the worries of hi
 ## Academic record Transmission
 The current legacy system requires the use of postal service to send physical academic transacripts and test scores to different institutions. Often times, transcripts and test certificates are prone to foagery. Using the power of smart contracts, school grades and exam scores can be stored onto the blockchain ensuring transparency, immutability and availability. 
 
-markdown'''
+```markdown
 Process
 1. Proctors test students, transmitting the test scores to them via the ESL Network or more traditional encrypted channels.
 2. Raw scores may be uploaded to the blockchain—making them accessible to all—for students not concerned about academic privacy.
@@ -55,7 +55,7 @@ Process
 6. Students attend the accepting school of their choice, sending ESL Coin and receiving their grades.
 7. Other academic records such as grades may be transmitted as by proctors for ESL students transferring to other schools and universities.
 8. All fees are in ESL Coin, some of which is converted to ether to pay miners for securing academic records.
-'''
+```
 
 ### TranslationPro D.App.
 Using AI technology, users can get instant AI translation from English to a variety of different languages. Users desiring optimal translation output may request to have the AI output be reviewed by a pool of language natives. This system allows natives of foreign languages make passive income on the side in the from of ESLCoin tokens which can be spent on other ESLCoin services in the future or sold at an exchange for FIAT currency. 
